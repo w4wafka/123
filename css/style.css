@@ -1,0 +1,6 @@
+body {
+	width: 1080px;
+	box-sizing: border-box;
+	padding: 50px;
+	background: lightgray, 0.5;
+}
